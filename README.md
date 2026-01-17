@@ -1,11 +1,14 @@
 # BITE BACK
 
-Bite back with Kent Brockman and his channel 6 consumer watchdog unit.
+Bite back with Kent Brockman and his channel 6 consumer watchdog unit!
 
-## Screenshot ##
+## Works Cited
+- [Asteri/biteback Codebase](https://github.com/rasteri/biteback)
+- [Simpsons Clip](https://www.youtube.com/watch?v=00uEdLNW3qw)
 
-![screenshot](screenshot.jpg)
+## Quick Start
+Text is updated in the text box area. URL can be shared with preset textbox, but it will only appear on click. 
 
-## Demo ##
+## Git Page Demo ##
 
-https://rasteri.github.io/biteback/
+![Screenshot](Bite-Screenshot.png)
