@@ -9,6 +9,6 @@ Bite back with Kent Brockman and his channel 6 consumer watchdog unit!
 ## Quick Start
 Text is updated in the text box area. URL can be shared with preset textbox, but it will only appear on click. 
 
-## Git Page Demo ##
-
+## Demo ##
+[exactlyallan.github.io/biteback/](https://exactlyallan.github.io/biteback/)
 ![Screenshot](Bite-Screenshot.png)
