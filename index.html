@@ -172,7 +172,7 @@ AND HIS *CHANNEL *6 CONSUMER WATCHDOG UNIT";
 
             // Update URL with current text
             var currentText = document.getElementById("textage").value;
-            var newUrl = window.location.pathname + '?text=' + encodeURIComponent(currentText);
+            var newUrl = window.location.pathname + '?text=' + encodeURIComponent(currentText).replace(/\*/g, '%2A');
             history.replaceState(null, '', newUrl);
 
             // start backwards from the end to avoid wrap foulups
