@@ -10,5 +10,4 @@ Bite back with Kent Brockman and his channel 6 consumer watchdog unit!
 Text is updated in the text box area. URL can be shared with preset textbox, but it will only appear on click. 
 
 ## Git Page Demo ##
-
 ![Screenshot](Bite-Screenshot.png)
